@@ -1,6 +1,6 @@
 {
-  "name": "particl-bitcoind-rpc",
-  "description": "Particl Client Library to connect to Particl Core via RPC",
+  "name": "ghost-bitcoind-rpc",
+  "description": "Ghost Client Library to connect to Ghost Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
@@ -25,12 +25,12 @@
     }
   ],
   "keywords": [
-    "particl",
+    "ghost",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/particl/particl-bitcoind-rpc"
+    "url": "https://github.com/ghost-coin/ghost-bitcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +47,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/particl/particl-bitcoind-rpc/issues"
+    "url": "https://github.com/ghost-coin/ghost-bitcoind-rpc/issues"
   },
-  "homepage": "https://github.com/particl/particl-bitcoind-rpc"
+  "homepage": "https://github.com/ghost-coin/ghost-bitcoind-rpc"
 }
